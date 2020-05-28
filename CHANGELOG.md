@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- New CSS handle `specificationItemProperty` plus the name of the specification.
 
 ## [3.115.0] - 2020-05-20
 ### Added
